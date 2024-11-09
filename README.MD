@@ -17,4 +17,4 @@ La función principal de este proyecto se llama `obtenerPrimos` y se encarga de 
 ### Ejemplo
 
 ```javascript
-console.log(obtenerPrimos(10)); // Output: [2, 3, 5, 7]
+console.log(primos(10)); // Output: [2, 3, 5, 7]
